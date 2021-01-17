@@ -1,0 +1,26 @@
+#_sidenav{
+    text-align: center; 
+    height:100%;
+    display: flex;
+}
+
+#_sidenav_top{
+    text-align: center;
+    height: 1%;
+    padding: 7px;
+    background-color:#151612; 
+}
+
+#_sidenav_1{
+    text-align: center;
+    background-color: #382933; 
+    height:100%;
+    width: 90%;
+}
+
+#_sidenav_2{
+    text-align: center;
+    background-color: #292c38; 
+    height:100%;
+    width: 50%;
+}
